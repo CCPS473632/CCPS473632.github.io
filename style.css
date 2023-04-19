@@ -1,1 +1,40 @@
+header{
+  text-color: red;
+ text-decoration: under line;
+}
+
+ul{
+margin: 0;
+  padding: 20px 0;
+
+}
+
+ol{
+width: 80px;
+color: #fff;
+
+}
+
+body{
+background-color: #F2F2F2;
+text-align: center;
+
+}
+
+h1{
+color: #333;
+font-size: 70px;
+}
+
+footer{
+z-index: 1;
+width: 100%
+}
+
+p{
+  font-weight: 400;
+  font-size: 14px;
+
+}
+
 
